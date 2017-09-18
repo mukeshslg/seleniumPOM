@@ -99,3 +99,8 @@
 2017-09-03 16:26:08 INFO  WelcomePageLink:42 - *********link T-SHIRTS clicked successfully********
 2017-09-03 16:26:08 INFO  TC003_VerifyRegistration:36 - **************ending Testcase 003 execusion********
 2017-09-03 16:26:08 INFO  TC003_VerifyRegistration:42 - *****closing browser*****
+2017-09-17 14:48:39 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2017-09-17 14:48:40 INFO  TC001_VerifyLoginwithInvalidCrediantials:25 - *****************starting verifyLoginwithInvalidCrediantials TC001 method******
+2017-09-17 14:48:42 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (ff78f12f-d952-4a5e-af81-9906e8e6b607)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2017-09-17 14:48:47 INFO  TC001_VerifyLoginwithInvalidCrediantials:29 - *****************ending verifyLoginwithInvalidCrediantials method******
+2017-09-17 14:48:47 INFO  TC001_VerifyLoginwithInvalidCrediantials:34 - *******closing browser******
