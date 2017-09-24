@@ -2,24 +2,50 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32842" started-at="2017-09-17T09:18:14Z" finished-at="2017-09-17T09:18:47Z">
+  <suite name="Default suite" duration-ms="28395" started-at="2017-09-24T03:11:47Z" finished-at="2017-09-24T03:12:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32842" started-at="2017-09-17T09:18:14Z" finished-at="2017-09-17T09:18:47Z">
-      <class name="com.test.automation.homepage.TC001_VerifyLoginwithInvalidCrediantials">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.automation.homepage.TC001_VerifyLoginwithInvalidCrediantials@11053e1]" name="setup" is-config="true" duration-ms="25688" started-at="2017-09-17T14:48:14Z" finished-at="2017-09-17T14:48:40Z">
+    <test name="Default test" duration-ms="28395" started-at="2017-09-24T03:11:47Z" finished-at="2017-09-24T03:12:15Z">
+      <class name="com.test.automation.homepage.TC003_VerifyRegistration">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.automation.homepage.TC003_VerifyRegistration@149af10]" name="beforeClass" is-config="true" duration-ms="15323" started-at="2017-09-24T08:41:47Z" finished-at="2017-09-24T08:42:02Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="verifyLoginwithInvalidCrediantials()[pri:0, instance:com.test.automation.homepage.TC001_VerifyLoginwithInvalidCrediantials@11053e1]" name="verifyLoginwithInvalidCrediantials" duration-ms="7059" started-at="2017-09-17T14:48:40Z" finished-at="2017-09-17T14:48:47Z">
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.automation.homepage.TC003_VerifyRegistration@149af10]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2017-09-24T08:42:02Z" finished-at="2017-09-24T08:42:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.automation.homepage.TC003_VerifyRegistration.testLogin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLoginwithInvalidCrediantials -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.automation.homepage.TC001_VerifyLoginwithInvalidCrediantials@11053e1]" name="endTest" is-config="true" duration-ms="16" started-at="2017-09-17T14:48:47Z" finished-at="2017-09-17T14:48:47Z">
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.test.automation.homepage.TC003_VerifyRegistration@149af10]" name="testLogin" duration-ms="12784" started-at="2017-09-24T08:42:02Z" finished-at="2017-09-24T08:42:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- endTest -->
-      </class> <!-- com.test.automation.homepage.TC001_VerifyLoginwithInvalidCrediantials -->
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.test.automation.homepage.TC003_VerifyRegistration@149af10]" name="afterClass" is-config="true" duration-ms="1" started-at="2017-09-24T08:42:15Z" finished-at="2017-09-24T08:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.automation.homepage.TC003_VerifyRegistration@149af10]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-09-24T08:42:15Z" finished-at="2017-09-24T08:42:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLogin status=SUCCESS method=TC003_VerifyRegistration.testLogin()[pri:0, instance:com.test.automation.homepage.TC003_VerifyRegistration@149af10] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endtest()[pri:0, instance:com.test.automation.homepage.TC003_VerifyRegistration@149af10]" name="endtest" is-config="true" duration-ms="259" started-at="2017-09-24T08:42:15Z" finished-at="2017-09-24T08:42:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- com.test.automation.homepage.TC003_VerifyRegistration -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
