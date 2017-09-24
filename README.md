@@ -13,5 +13,7 @@ Eclipse Oxygen Download Link:http://www.eclipse.org/downloads/download.php?file=
 Recommendation- Avoid using eclipse JEE version
 Two method to import project in eclipse:
 1.PLEASE DOWNLOAD ZIP FILE ->UNZIP->IMPORT TO ECLIPSE TO !
+
 2.clone it from my GIT repository
+
 Please pull latest code before starting making changes to commit-pushing code successfully and avoid conflict
