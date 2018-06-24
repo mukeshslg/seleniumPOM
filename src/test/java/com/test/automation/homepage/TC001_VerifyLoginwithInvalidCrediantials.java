@@ -24,7 +24,7 @@ public class TC001_VerifyLoginwithInvalidCrediantials extends TestBase {
 	void verifyLoginwithInvalidCrediantials() throws InterruptedException {
 		log.info("*****************starting verifyLoginwithInvalidCrediantials TC001 method******");
 		homepage = new HomePage(driver);//initializing driver through pagefactory
-		homepage.LoginToApplication("test.slg@gmail.com", "password1");
+		homepage.LoginToApplication("test2.slg@gmail.com", "password2");
 		Assert.assertEquals(homepage.GetInvalidLoginText(),"Authentication failed.");
 		log.info("*****************ending verifyLoginwithInvalidCrediantials method******");
 	}

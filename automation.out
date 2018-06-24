@@ -121,3 +121,79 @@
 2017-09-24 16:39:42 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (ac41c68a-ae25-4363-8204-51c08eeddfe0)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
 2017-09-24 16:39:49 INFO  TC001_VerifyLoginwithInvalidCrediantials:29 - *****************ending verifyLoginwithInvalidCrediantials method******
 2017-09-24 16:39:49 INFO  TC001_VerifyLoginwithInvalidCrediantials:34 - *******closing browser******
+2017-09-27 00:57:47 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2017-09-27 00:57:47 INFO  TC001_VerifyLoginwithInvalidCrediantials:25 - *****************starting verifyLoginwithInvalidCrediantials TC001 method******
+2017-09-27 00:57:50 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (8d81a8aa-3bdb-4f5f-b5a9-c2ee4ef618fb)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2017-09-27 00:57:56 INFO  TC001_VerifyLoginwithInvalidCrediantials:29 - *****************ending verifyLoginwithInvalidCrediantials method******
+2017-09-27 00:57:56 INFO  TC001_VerifyLoginwithInvalidCrediantials:34 - *******closing browser******
+2018-03-17 06:11:02 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2018-03-17 06:11:02 INFO  TC001_VerifyLoginwithInvalidCrediantials:25 - *****************starting verifyLoginwithInvalidCrediantials TC001 method******
+2018-03-17 06:11:05 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (5fb607ef-977b-4231-8054-000878f7bba4)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-03-17 06:11:11 INFO  TC001_VerifyLoginwithInvalidCrediantials:29 - *****************ending verifyLoginwithInvalidCrediantials method******
+2018-03-17 06:11:13 INFO  TC001_VerifyLoginwithInvalidCrediantials:34 - *******closing browser******
+2018-03-17 06:12:25 INFO  TC003_VerifyRegistration:28 - **************Starting Testcase 003 execusion********
+2018-03-17 06:12:28 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (80fc0dc9-e9a0-4394-a89b-56fcad0a037f)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-03-17 06:12:40 INFO  WelcomePageLink:42 - *********link T-SHIRTS clicked successfully********
+2018-03-17 06:12:40 INFO  TC003_VerifyRegistration:36 - **************ending Testcase 003 execusion********
+2018-03-17 06:12:40 INFO  TC003_VerifyRegistration:42 - *****closing browser*****
+2018-03-24 21:11:06 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2018-03-24 21:11:06 INFO  TC002_VerifyRegistration:18 - **************Launching browser********
+2018-03-24 21:11:25 INFO  TestBase:68 - ********* firefox browser launch successfull************
+2018-03-24 21:11:25 INFO  TC002_VerifyRegistration:24 - **************Starting Testcase 002 execusion********
+2018-03-24 21:11:41 INFO  TC002_VerifyRegistration:33 - *****closing browser*****
+2018-03-24 21:11:43 INFO  TC003_VerifyRegistration:22 - **************Launching browser********
+2018-03-24 21:12:00 INFO  TestBase:68 - ********* firefox browser launch successfull************
+2018-03-24 21:12:00 INFO  TC003_VerifyRegistration:28 - **************Starting Testcase 003 execusion********
+2018-03-24 21:12:03 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (7f51d7f9-a43b-45f2-8e96-a5f2489b163c)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-03-24 21:12:16 INFO  WelcomePageLink:42 - *********link T-SHIRTS clicked successfully********
+2018-03-24 21:12:16 INFO  TC003_VerifyRegistration:36 - **************ending Testcase 003 execusion********
+2018-03-24 21:12:16 INFO  TC003_VerifyRegistration:42 - *****closing browser*****
+2018-03-24 21:12:17 INFO  TC001_VerifyLoginwithInvalidCrediantials:25 - *****************starting verifyLoginwithInvalidCrediantials TC001 method******
+2018-03-24 21:12:20 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (e9d3573b-4b6d-405b-be10-ce3930fd8d5b)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-03-24 21:12:26 INFO  TC001_VerifyLoginwithInvalidCrediantials:29 - *****************ending verifyLoginwithInvalidCrediantials method******
+2018-03-24 21:12:26 INFO  TC001_VerifyLoginwithInvalidCrediantials:34 - *******closing browser******
+2018-05-14 11:23:29 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2018-05-14 11:23:29 INFO  TC002_VerifyRegistration:18 - **************Launching browser********
+2018-05-14 11:23:48 INFO  TestBase:68 - ********* firefox browser launch successfull************
+2018-05-14 11:23:48 INFO  TC002_VerifyRegistration:24 - **************Starting Testcase 002 execusion********
+2018-05-14 11:24:04 INFO  TC002_VerifyRegistration:33 - *****closing browser*****
+2018-05-14 11:24:06 INFO  TC003_VerifyRegistration:22 - **************Launching browser********
+2018-05-14 11:24:27 INFO  TestBase:68 - ********* firefox browser launch successfull************
+2018-05-14 11:24:27 INFO  TC003_VerifyRegistration:28 - **************Starting Testcase 003 execusion********
+2018-05-14 11:24:30 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (04d11415-0708-4a63-a08f-3f2809cbc61a)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-05-14 11:24:44 INFO  WelcomePageLink:42 - *********link T-SHIRTS clicked successfully********
+2018-05-14 11:24:44 INFO  TC003_VerifyRegistration:36 - **************ending Testcase 003 execusion********
+2018-05-14 11:24:44 INFO  TC003_VerifyRegistration:42 - *****closing browser*****
+2018-05-14 11:24:44 INFO  TC001_VerifyLoginwithInvalidCrediantials:25 - *****************starting verifyLoginwithInvalidCrediantials TC001 method******
+2018-05-14 11:24:47 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (333151e5-5cc9-41be-8059-a4bc4df18db5)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-05-14 11:24:53 INFO  TC001_VerifyLoginwithInvalidCrediantials:29 - *****************ending verifyLoginwithInvalidCrediantials method******
+2018-05-14 11:24:53 INFO  TC001_VerifyLoginwithInvalidCrediantials:34 - *******closing browser******
+2018-05-14 12:16:19 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2018-05-14 12:16:19 INFO  TC002_VerifyRegistration:18 - **************Launching browser********
+2018-05-14 12:16:37 INFO  TestBase:68 - ********* firefox browser launch successfull************
+2018-05-14 12:16:37 INFO  TC002_VerifyRegistration:24 - **************Starting Testcase 002 execusion********
+2018-05-14 12:16:54 INFO  TC002_VerifyRegistration:33 - *****closing browser*****
+2018-05-14 12:16:55 INFO  TC003_VerifyRegistration:22 - **************Launching browser********
+2018-05-14 12:38:25 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2018-05-14 12:38:25 INFO  TC001_VerifyLoginwithInvalidCrediantials:25 - *****************starting verifyLoginwithInvalidCrediantials TC001 method******
+2018-05-14 12:38:29 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (c3b576fd-5c8f-46da-bfa7-b8499131ff0f)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-05-14 12:38:36 INFO  TC001_VerifyLoginwithInvalidCrediantials:29 - *****************ending verifyLoginwithInvalidCrediantials method******
+2018-05-14 12:38:37 INFO  TC001_VerifyLoginwithInvalidCrediantials:34 - *******closing browser******
+2018-05-25 23:18:37 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2018-05-25 23:18:37 INFO  TC001_VerifyLoginwithInvalidCrediantials:25 - *****************starting verifyLoginwithInvalidCrediantials TC001 method******
+2018-06-17 19:13:29 INFO  TC002_VerifyRegistration:24 - **************Starting Testcase 002 execusion********
+2018-06-17 19:13:46 INFO  TC002_VerifyRegistration:33 - *****closing browser*****
+2018-06-17 19:18:40 INFO  TC001_VerifyLoginwithInvalidCrediantials:20 - ***************initialization done************
+2018-06-17 19:18:40 INFO  TC001_VerifyLoginwithInvalidCrediantials:25 - *****************starting verifyLoginwithInvalidCrediantials TC001 method******
+2018-06-17 19:18:44 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (5c2a66bc-9177-4626-8e57-51beb7712886)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-06-17 19:18:50 INFO  TC001_VerifyLoginwithInvalidCrediantials:29 - *****************ending verifyLoginwithInvalidCrediantials method******
+2018-06-17 19:18:50 INFO  TC001_VerifyLoginwithInvalidCrediantials:34 - *******closing browser******
+2018-06-17 19:30:55 INFO  TC002_VerifyRegistration:24 - **************Starting Testcase 002 execusion********
+2018-06-17 19:31:03 INFO  TC002_VerifyRegistration:33 - *****closing browser*****
+2018-06-17 19:31:37 INFO  TC002_VerifyRegistration:24 - **************Starting Testcase 002 execusion********
+2018-06-17 19:31:53 INFO  TC002_VerifyRegistration:33 - *****closing browser*****
+2018-06-17 19:32:56 INFO  TC003_VerifyRegistration:28 - **************Starting Testcase 003 execusion********
+2018-06-17 19:32:59 INFO  HomePage:59 - **********clicking [[FirefoxDriver: firefox on ANY (a10e0874-5ac7-4849-9244-37c68690a9d6)] -> xpath: .//*[@id='header']/div[2]/div/div/nav/div[1]/a] object*****
+2018-06-17 19:33:12 INFO  WelcomePageLink:42 - *********link T-SHIRTS clicked successfully********
+2018-06-17 19:33:12 INFO  TC003_VerifyRegistration:36 - **************ending Testcase 003 execusion********
+2018-06-17 19:33:12 INFO  TC003_VerifyRegistration:42 - *****closing browser*****
